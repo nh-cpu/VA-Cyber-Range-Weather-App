@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Test coverage output
+coverage/
+
+# Environment variables (API keys, secrets)
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
